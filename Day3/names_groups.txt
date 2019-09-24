@@ -1,0 +1,3 @@
+Mary:Mathematics,Chemistry,Sport,Physice,Spanish
+Joe:Sport,Theatre
+Barbie:Mathematics,Chemistry,Physice,Hungarian,Hebrew
